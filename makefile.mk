@@ -1,0 +1,2 @@
+targets: 
+	sh program.awk
