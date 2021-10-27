@@ -1,4 +1,4 @@
-# CISC3140 Lab3
+# CISC3140 Lab3 Part 1
 
 The .rtf file is a list of items one might sell if they were hosting a technology based website. Each row consists of the item name, the price as well as how many  of that specific item is in inventory. The .awk file reads and adds up each item's final price and multiplies it by the available. It then outputs the total amount of money that will be made if everything is sold.
 
