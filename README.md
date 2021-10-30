@@ -10,4 +10,6 @@ Must have bash downloaded.
 
 ### Using the script:
 Simply type in your terminal the following: 
-`sh program.awk`
+`sh program.awk` <br>
+You can also use the makefile directly by typing in the terminal:
+`make -f makefile.mk`
